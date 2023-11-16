@@ -3416,7 +3416,7 @@ pridržavaše, grabio svojim zdravim nogama.
 
 []{#grimm-bajke-txt_18.xhtml}
 
-## Crvenkapica
+## Crvenkapica(https://povijest.hr/wp-content/uploads/2021/07/Crvenkapica-696x392.jpg)
 
 Bila jednom mala draga djevojčica, koju bi svatko zavolio čim bi je
 ugledao, a njezina je baka voljela tako da nije znala kako da djetetu
