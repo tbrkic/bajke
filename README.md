@@ -1,2 +1,2 @@
 # bajke
-# [***Bajke se nalaze ovdje***](https://github.com/tbrkic/bajke/blob/main/grimm_bajke3.md)
+# [***Bajke se nalaze ovdje***](https://tbrkic.github.io/bajke/grimm_bajke3.md)
