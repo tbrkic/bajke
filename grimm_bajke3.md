@@ -26,7 +26,7 @@ Viktor Kralj
 
  
 
- 
+ [Zvučni zapis bajki](https://lektire.skole.hr/node/12321) - daje Error 404 iako je dostupan na stranicama lektire.skole.hr
 
  
 
@@ -1023,7 +1023,7 @@ strahovati.
 
 []{#grimm-bajke-txt_8.xhtml}
 
-## Palčić
+## [Palčić](https://www.maligenijalci.com/wp-content/uploads/2014/04/palcic-1.jpg)
 
 Bio neki siromašni seljak pa uvečer sjedio kod ognjišta i poticao vatru,
 dok mu žena prela. Jednom on reče ženi:
