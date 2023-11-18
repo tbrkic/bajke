@@ -155,7 +155,7 @@ Još je dvaput prasnulo, a kraljević je sveđ mislio, da se kola lome. Ali
 to samo obruči spadahu sa srca vjernome Henriku, jer mu gospodar bijaše
 slobodan i sretan.
 
-[]{#grimm-bajke-txt_6.xhtml}
+
 
 ## Klatež
 
@@ -210,8 +210,7 @@ prenoćiti. Nato gosti stanu naručivati, dok se god ne nauživaše do mile
 volje.
 
 Rano u zoru, dok je sve još spavalo, probudi pjetlić kokicu, uzme jaje,
-prokljuje ga, i zajedno ga pojedu;
-[]{#grimm-bajke-txt_6.xhtml#ljupina}[ljupinu](../Text/Rjecnik.xhtml#lj)
+prokljuje ga, i zajedno ga pojedu;ljupinu
 bace na ognjište. Zatim pođu k igli, koja još spavaše, uzmu je za ušice
 i zabodu u jastuk od krčmareva naslonjača, a pribadaču u ručnik, pa
 onda, ni pet ni šest, odlete preko pustopoljine. Patka rado spavaše pod
@@ -232,7 +231,7 @@ Ode da ih vidi, a kad tamo, od njih ni traga ni glasa. Zakle se, da
 nikad više neće u svoju kuću primiti klateži, što mnogo troši, ništa ne
 plaća, a povrhu, da se zahvali, zbija rđave šale.
 
-[]{#grimm-bajke-txt_7.xhtml}
+
 
 ## Priča o čovjeku koji je htio da nauči strahovati
 
