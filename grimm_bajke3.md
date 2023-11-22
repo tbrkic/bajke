@@ -210,7 +210,8 @@ prenoćiti. Nato gosti stanu naručivati, dok se god ne nauživaše do mile
 volje.
 
 Rano u zoru, dok je sve još spavalo, probudi pjetlić kokicu, uzme jaje,
-prokljuje ga, i zajedno ga pojedu;ljupinu
+prokljuje ga, i zajedno ga pojedu;
+ljupinu
 bace na ognjište. Zatim pođu k igli, koja još spavaše, uzmu je za ušice
 i zabodu u jastuk od krčmareva naslonjača, a pribadaču u ručnik, pa
 onda, ni pet ni šest, odlete preko pustopoljine. Patka rado spavaše pod
@@ -337,8 +338,7 @@ očiju, neću više da te vidim.
 strahovati, hoću da znam vještinu, koja će me hraniti.
 
 -- Uči, što ti drago -- prihvati otac; -- meni je svejedno. Evo ti
-pedeset
-[]{#grimm-bajke-txt_7.xhtml#talir}[talira](../Text/Rjecnik.xhtml#t), idi
+pedeset talira, idi
 u daleki svijet i nemoj nikome reći, odakle si i tko ti je otac, jer se
 tebe moram stidjeti.
 
@@ -354,7 +354,7 @@ kad se zaputili zajedno dalje i došli nadomak nekih vješala, reče mu
 suputnik:
 
 -- Vidiš li ono drvo? Tamo su sedmorica slavila svadbu s užarevom
-kćerkom,[]{#grimm-bajke-txt_7.xhtml#ftnref1}[[^1]]{.FootnoteReference} a
+kćerkom, a
 sad uče letjeti; sjedni ispod njih i čekaj, dok se smrkne, naučit ćeš
 strahovati.
 
@@ -374,7 +374,7 @@ sjedili nepomično, i vatra im zahvati odijela, te ih on na to upozori:
 -- Pazite, inače ću vas opet objesiti!
 
 Ali mrtvaci nisu čuli; šutjeli su i pustili da im njihove
-[]{#grimm-bajke-txt_7.xhtml#tralje}[tralje](../Text/Rjecnik.xhtml#t)
+tralje
 izgore. Momak se razljuti i poviče:
 
 -- Kad nećete da se čuvate, ne mogu vam pomoći; neću da s vama izgorim.
@@ -437,7 +437,7 @@ A momak će na to:
 Zatim je dosađivao krčmaru, sve dok mu ovaj nije pripovjedio da u
 blizini imaju začarani dvori, gdje svatko može naučiti, šta znači
 strahovati, ako samo hoće tri noći tamo
-[]{#grimm-bajke-txt_7.xhtml#straziti}[stražiti](../Text/Rjecnik.xhtml#s).
+stražiti.
 Kralj da je onome, tko bi se usudio to poduzeti, obećao svoju kćer za
 ženu, a ona da je najljepša djevojka pod suncem; u dvoru da se nalazi
 silno blago, što ga čuvaju zli dusi; to blago bilo bi u taj tren
@@ -454,8 +454,8 @@ Kralj ga pogleda, pa kako mu se svidio, upozori ga:
 uzeti.
 
 -- Molim dakle vatre, tokarsku klupu i
-djelaču[]{#grimm-bajke-txt_7.xhtml#ftnref2}[[^2]]{.FootnoteReference} s
-makljicom[]{#grimm-bajke-txt_7.xhtml#ftnref3}[[^3]]{.FootnoteReference}.
+djelaču s
+makljicom.
 Kralj naredi, da se sve to još za dana odnese u začarane dvore. Kad se
 primakla noć, momak otiđe gore, naloži u jednoj izbi veliku vatru,
 postavi djelaču s makljicom kraj nje i sjedne na tokarsku klupu. »Da mi
@@ -685,7 +685,7 @@ strahovati.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[]{#grimm-bajke-txt_8.xhtml}
+
 
 ## [Palčić](https://www.maligenijalci.com/wp-content/uploads/2014/04/palcic-1.jpg)
 
@@ -942,7 +942,7 @@ sad ostajem kod vas.
 milujući i grleći Palčića. Dadoše mu da jede i pije, sašiju mu novu
 odjeću, jer se ona, koja bijaše na njemu, sva od puta otrcala.
 
-[]{#grimm-bajke-txt_9.xhtml}
+
 
 ## Vuk i sedmoro jaradi
 
@@ -1057,7 +1057,7 @@ on se uduši. Kad to vidješe jarići, dotrčaše i povikaše:
 -- Vuk je mrtav, vuk je mrtav! -- i sa svojom majkom zaplesaše okolo
 studenca.
 
-[]{#grimm-bajke-txt_10.xhtml}
+
 
 ## Tri čovječuljka u šumi
 
@@ -1093,7 +1093,7 @@ piće pred muževljevom kćerkom, a mlijeko za pranje i vino za piće pred
 
 Žena bude krvni neprijatelj svojoj pastorci, te ne znade kako da joj
 svaki dan što većma napakosti. A bijaše i
-[]{#grimm-bajke-txt_10.xhtml#nenavidan}[nenavidna](../Text/Rjecnik.xhtml#n),
+nenavidna,
 jer je pastorka bila lijepa i mila, a kćer ružna i odurna.
 
 Jednom zimi, kad se sve smrzlo i zemlja otvrdla kao kamen, a brda i
@@ -1101,7 +1101,7 @@ doline pod snijegom, načini maćeha haljetak od papira, zovne pastorku i
 reče joj:
 
 -- Obuci ovaj haljetak, idi u šumu i naberi mi punu
-[]{#grimm-bajke-txt_10.xhtml#kotarica}[kotaricu](../Text/Rjecnik.xhtml#k)
+kotaricu
 jagoda; zaželjela sam ih se.
 
 -- Bože dragi -- uzdahne djevojka -- zimi ne rastu jagode; zemlja se
@@ -1189,7 +1189,7 @@ Sad se kepeci porazgovore među sobom:
 
 -- Šta ćemo joj pokloniti? Tako je neuljudna i ima rđavo, ružno srce,
 što svakom
-[]{#grimm-bajke-txt_10.xhtml#nenavidjeti}[nenavidi](../Text/Rjecnik.xhtml#n)?
+nenavidi?
 
 -- Poklanjam joj -- javi se prvi -- da bude svaki dan ružnija,
 
@@ -1205,7 +1205,7 @@ u šumi vidjela, iskoči joj iz njih žaba krastača, te im se svima zgadi.
 Nato se maćeha razljuti još više, te je samo smišljala kako da pastorci,
 što je svakim danom postajala ljepša, učini kakvu nepodopštinu, Napokon
 uzme kotao, navjesi ga na vatru i stane kuhati
-[]{#grimm-bajke-txt_10.xhtml#predja}[pređu](../Text/Rjecnik.xhtml#p).
+pređu.
 Kad bijaše kuhana, objesi je jadnoj djevojci preko ramena, dade joj
 sjekiru, da na zaleđenoj rijeci u ledu probije rupu te pređu ispere.
 
@@ -1290,7 +1290,7 @@ Naloži da se donese takva bačva i u nju ugura maćeha zajedno sa svojom
 kćeri. Zatim u utor umetnu dno i tako zatvorenu bačvu pustiše nizbrdo,
 te se otkotrlja u rijeku.
 
-[]{#grimm-bajke-txt_11.xhtml}
+
 
 ## Vjerni Ivan
 
@@ -1394,7 +1394,7 @@ bude sve u redu; neka se zlatno posuđe izloži i čitava lađa uresi. --
 Zatim odabere različitih zlatnih predmeta, stavi ih u svoju pregaču,
 siđe s lađe i zaputi se pravo u kraljevske dvore. Kad je stupio na
 dvorište, opazi lijepu djevojku sa dva zlatna
-[]{#grimm-bajke-txt_11.xhtml#cabar}[čabra](../Text/Rjecnik.xhtml#ch)
+čabra
 gdje stoji kraj zdenca i zahvaća vodu. Upravo je htjela odnijeti
 blistavu vodu i već se okrenula, kadli ugleda strana čovjeka te ga
 zapita, tko je.
@@ -1465,7 +1465,7 @@ gavran.
 
 -- Šta mu to vrijedi -- opet će prvi. -- Kad se iskrcaju, dotrčat će mu
 ususret
-[]{#grimm-bajke-txt_11.xhtml#lisast}[lisast](../Text/Rjecnik.xhtml#l)
+lisast
 konj, i on će htjeti da na njega uzjaše, pa ako to učini, odjurit će s
 njime u zračne visine, te nikad više neće vidjeti svoje djevojke.
 
@@ -1609,7 +1609,7 @@ Ispripovjedi joj, kako se sve to dogodilo.
 
 Otada življahu zajedno u sreći i blaženstvu sve do svoje smrti.
 
-[]{#grimm-bajke-txt_12.xhtml}
+
 
 ## Nahod-ptica
 
@@ -1654,7 +1654,7 @@ se reče Lenčica Nahod-ptici:
 -- Htjela bih ti samo nešto reći -- nastavi Lenčica. -- Stara Suzica
 sinoć dovukla u kuću mnogo čabrova vode, te sam je pitala, čemu to, a
 ona mi reče, da će mi kazati, ako ja neću nikome. Kad sam joj
-[]{#grimm-bajke-txt_12.xhtml#obreci}[obrekla](../Text/Rjecnik.xhtml#o)
+obrekla
 da neću odati nikome, prišapnula mi: »Sutra ujutro, kad otac bude u
 lovu, ugrijat ćemo kotao vode, Nahod-pticu baciti u nju i svariti.«
 
@@ -1677,7 +1677,7 @@ te Lenčica reče Nahod-ptici:
 -- Ni sad ni ikad!
 
 -- Budi ti
-[]{#grimm-bajke-txt_12.xhtml#bokor}[bokor](../Text/Rjecnik.xhtml#b), a
+bokor, a
 ja ružica na njemu.
 
 Kad ona tri momka stigoše pred šumu, ne nađoše ništa drugo osim bokora i
@@ -1723,7 +1723,7 @@ Ali patka brže dođe, uhvati je kljunom za glavu i povuče u vodu, i stara
 se vještica uduši. Djeca se veselo vrate kući. Ako nisu umrla, onda još
 i danas žive.
 
-[]{#grimm-bajke-txt_13.xhtml}
+
 
 ## Dvanaestorica braće
 
@@ -1937,7 +1937,7 @@ se obradova, kad ču, da je nevina. Otada življahu svi zajedno u slozi do
 smrti. Opaku svekrvu osudiše i staviše u bure puno vrela ulja i otrovnih
 zmija, i ona tako umrije ružnom smrću.
 
-[]{#grimm-bajke-txt_14.xhtml}
+
 
 ## Mudra Jelka
 
@@ -2311,7 +2311,7 @@ Kad je kralj čuo njihovu odluku, reče:
 A naša šestorica odnesoše blago kući, podijeliše ga između sebe i
 poživješe zadovoljno do smrti.
 
-[]{#grimm-bajke-txt_15.xhtml}
+
 
 ## Pas i vrabac
 
@@ -2467,7 +2467,7 @@ Kočijaš pruži ženi sjekiru i urlikne:
 Žena udari, ali promaši, smjeri kočijaša u glavu, i on se sruši mrtav.
 Vrabac uzleti i odleti.
 
-[]{#grimm-bajke-txt_16.xhtml}
+
 
 ## Pepeljuga
 
@@ -2618,7 +2618,7 @@ neznana djevojka. Stari pomisli, da nije možda Pepeljuga, pa kad mu
 donesoše sjekiru i trnokop, razbi golubinjak, ali nikoga ne nađe. Uđoše
 u kuću, a kad tamo: Pepeljuga u svom prljavom haljetku leži sva u pepelu
 kraj mutne
-[]{#grimm-bajke-txt_16.xhtml#petruljaca}[petruljače](../Text/Rjecnik.xhtml#p),
+petruljače,
 što gori u dimnjaku. Pepeljuga je naime brže skočila otraga iz
 golubinjaka i otrčala k ljeskovom drvcetu; tu je svukla i na grob
 stavila lijepu odjeću, koju je ptica opet odnijela, a onda je u svom
@@ -2755,7 +2755,7 @@ je najstarija s lijeve, a najmlađa s desne strane; i golubice iskljuju
 svakoj drugo oko. I tako za svoju zlobu i neiskrenost biše kažnjene
 sljepoćom za čitav život.
 
-[]{#grimm-bajke-txt_17.xhtml}
+
 
 ## Mirko i Milka
 
@@ -2793,7 +2793,7 @@ teći po podrumu i ne zaustavi se, dok bačva ne bi sasvim prazna.
 
 »Strahota! Šta da učinim, da Mirko ne opazi!« vikne i razmisli malo.
 Napokon se sjeti, da je od posljednjega
-[]{#grimm-bajke-txt_17.xhtml#prostenje}[proštenja](../Text/Rjecnik.xhtml#p)
+proštenja
 ostala vreća lijepa pšeničnog brašna, gore na tavanu, i odluči poći po
 brašno, da njime pospe podrum.
 
@@ -2940,7 +2940,7 @@ Milka pođe kući i pomisli:
 rubac suhih krušaka i vrč octa za piće.«
 
 Došavši kući, Milka zakračuna nutarnja vrata, dok kućna
-[]{#grimm-bajke-txt_17.xhtml#istaviti}[istavi](../Text/Rjecnik.xhtml#i)
+istavi
 i ponese sa sobom, uvjerena da je kuća sigurna ako su kućna vrata na
 sigurnome mjestu; nije se žurila za Mirkom, misleći da će joj muž to
 bolje počinuti; kad ga stiže, reče mu:
@@ -3078,9 +3078,9 @@ otići da ga potjeram.
 straha trčaše bolje svojom hromom nogom, nego što je čovjek, koji ga
 pridržavaše, grabio svojim zdravim nogama.
 
-[]{#grimm-bajke-txt_18.xhtml}
 
-## Crvenkapica(https://povijest.hr/wp-content/uploads/2021/07/Crvenkapica-696x392.jpg)
+
+## [Crvenkapica](https://povijest.hr/wp-content/uploads/2021/07/Crvenkapica-696x392.jpg)
 
 Bila jednom mala draga djevojčica, koju bi svatko zavolio čim bi je
 ugledao, a njezina je baka voljela tako da nije znala kako da djetetu
@@ -3294,7 +3294,7 @@ Kada djevojka prisluškujući za vratima oču tu želju, iziđe pred braću, i
 u taj čas poprime gavrani opet svoje ljudsko obličje. Svi se milovahu i
 cjelivahu, a onda veselo odoše doma.
 
-[]{#grimm-bajke-txt_19.xhtml}
+
 
 ## Bremenski gradski svirači
 
@@ -3302,7 +3302,7 @@ Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u
 mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za
 rad. Njegovu gospodaru pade na um da ga prestane hraniti, a magarac
 opazi da loš vjetar puše, te pobjegne i udari put
-[]{#grimm-bajke-txt_19.xhtml#bremen}[Bremena](../Text/Rjecnik.xhtml#b);
+Bremena;
 tamo bi, mišljaše, mogao postati gradski svirač.
 
 Kad je neko vrijeme išao, naiđe na lovačkog psa gdje na putu leži i
@@ -3399,7 +3399,7 @@ bijahu umorni od duga puta, naskoro zaspaše.
 
 Kad prođe ponoć, a razbojnici izdaleka ugledaju da nema više svijetla u
 kući i da je opet zavladao mir, reče
-[]{#grimm-bajke-txt_19.xhtml#harambasa}[harambaša](../Text/Rjecnik.xhtml#h):
+harambaša:
 
 -- Baš nije trebalo da se ovako preplašimo -- i pošalje jednog hajduka
 da pretraži kuću.
@@ -3421,13 +3421,13 @@ mu javi:
 -- Uh, u kući je neka strahovita vještica; dahnula u mene i svojim me
 dugim noktima izgrebla; pred vratima čovjek; ubô me nožem u nogu; u
 dvorištu neka crna neman, ošinu me
-[]{#grimm-bajke-txt_19.xhtml#kijaca}[kijačom](../Text/Rjecnik.xhtml#k);
+kijačom;
 a na krovu sjedi sudac i viče: »Dovedite mi lupeža!« A ja pobjegao.
 
 Otada se razbojnici više ne usudiše u kuću, a bremenskim se sviračima u
 njoj tako svidje, te više ne htjedoše iz nje.
 
-[]{#grimm-bajke-txt_20.xhtml}
+
 
 ## Mudra seljanka
 
@@ -3440,7 +3440,7 @@ krčevine.
 Kad je kralj čuo o njihovu siromaštvu, pokloni im još i malo ledine, te
 je otac i njegova kćerka iskrče, da na njoj posiju žita ili štogod
 usade. Kad su njivicu već malone prekopali, nađu u zemlji
-[]{#grimm-bajke-txt_20.xhtml#stupa}[stupu](../Text/Rjecnik.xhtml#s) od
+stupu od
 čista zlata.
 
 -- Slušaj -- reče otac djevojci -- naš je kralj i gospodar bio prema
@@ -3448,7 +3448,7 @@ nama milostiv, te nam darovao zemljište: treba da mu damo ovu stupu.
 
 -- Ćaća, ako imamo stupu, a nemamo tučka -- usprotivi se kći -- morat
 ćemo i
-[]{#grimm-bajke-txt_20.xhtml#tucak}[tučak](../Text/Rjecnik.xhtml#t)
+tučak
 pribaviti; onda je bolje šutjeti.
 
 No otac je ne htjede poslušati, već uzme stupu, odnese je kralju i reče
@@ -3496,7 +3496,7 @@ kraljevsku riznicu.
 Prođe nekoliko godina, i kralj jednoga dana iziđe da pregleda vojsku.
 Kad on van, a to seljaci sa svojim kolima stoje pred dvorima i nude drva
 na prodaju; u jednih
-[]{#grimm-bajke-txt_20.xhtml#uklenut}[uklenuti](../Text/Rjecnik.xhtml#u)
+uklenuti
 volovi, u drugih upregnuti konji. Nekom seljaku, koji je imao tri
 kobile, oždrijebi se jedna, i ždrijebe legne između dva vola, što
 stajahu pred kolima. Skupe se seljaci te najednom udri u svađu i grdnju.
@@ -3517,7 +3517,7 @@ odgovori kralju, ako bi ga što pitao.
 
 Sutradan dođe seljak i stane loviti ribu na suhu. Kada kralj naiđe i
 vidi šta seljak radi, pošalje
-[]{#grimm-bajke-txt_20.xhtml#skoroteca}[skoroteču](../Text/Rjecnik.xhtml#s)
+skoroteču
 da pita šta taj ludi čovjek čini. Seljak mu odgovori:
 
 -- Lovim ribu.
@@ -3568,7 +3568,7 @@ tebe, povela sam tebe.
 suznih očiju, i odvede je opet u kraljevske dvore, te se ponovo
 vjenčaju. Bit će da su živi i dandanas.
 
-[]{#grimm-bajke-txt_21.xhtml}
+
 
 ## Trnoružica
 
@@ -3679,7 +3679,7 @@ kuhar udario momka te ovaj vrisnuo, a sluškinja operušala kokoš. Napokon
 proslavili svadbu, raskošnu i sjajnu, te kraljević poživio s Ružicom
 zadovoljno sve do smrti.
 
-[]{#grimm-bajke-txt_22.xhtml}
+
 
 ## Siromah i bogataš
 
@@ -3842,7 +3842,7 @@ Od svega bogataš nije ništa drugo imao doli srdžbe, truda, pogrda i
 propaloga konja; siromasi su živjeli zadovoljno, tiho i pobožno sve do
 svoga sretnoga svršetka.
 
-[]{#grimm-bajke-txt_23.xhtml}
+
 
 ## Kralj bradonja
 
@@ -3861,7 +3861,7 @@ Jedan joj bijaše predebeo: -- Bure! -- prišije ona.
 Drugi predug: -- Dugonja!
 
 Treći prekratak: --
-[]{#grimm-bajke-txt_23.xhtml#kuljav}[Kuljavi](../Text/Rjecnik.xhtml#k)
+Kuljavi
 debeljko!
 
 Četvrti preblijed: -- Blijeda smrt!
@@ -3882,7 +3882,7 @@ s proscima, i da ih sve što ih je tamo bilo prezirno odbija, razljuti se
 i zakune da će je dati za prvog prosjaka koji mu dođe pred vrata.
 
 Jednoga dana stane neki
-svirač-[]{#grimm-bajke-txt_23.xhtml#potukac}[potukač](../Text/Rjecnik.xhtml#p)
+svirač-potukač
 pod prozorom pjevati, da bi mu udijelili darak. Kad ga kralj čuo,
 zapovjedi da ga puste unutra. Došavši pred kralja i njegovu kćer u
 svojoj otrcanoj odjeći, zapjeva; pa kad svrši, zamoli za mali darak.
@@ -3944,7 +3944,7 @@ Napokon stignu k nekoj maloj kućici, i kraljevska kći reče:
 
 *-- Mala li je, da je vidjet nije!\
 Čija li je, tko li u njoj
-[]{#grimm-bajke-txt_23.xhtml#zije}[žije](../Text/Rjecnik.xhtml#zh)?*
+žije?*
 
 -- To je moja i tvoja kuća -- odgovori svirač. -- U njoj ćemo živjeti.
 
@@ -4013,7 +4013,7 @@ miris dopirao do nje, dobacivahu joj sluge tu i tamo po koju mrvicu; ona
 ih mećaše u svoje lončiće, da ih ponese kući.
 
 Najedamput stupi u dvoranu kraljević u svili i
-[]{#grimm-bajke-txt_23.xhtml#kadifa}[kadifi](../Text/Rjecnik.xhtml#k),
+kadifi,
 sa zlatnim lančićima oko vrata. Kad ugleda lijepu ženu gdje stoji kod
 vrata, uzme je za ruku i htjede s njom plesati, no ona se usprotivi i
 uplaši; vidje naime, da je to kralj Bradonja, jedan od njezinih bivših
@@ -4041,7 +4041,7 @@ Nato dođu dvorske sobarice, obuku je u prekrasne haljine, i otac je
 njezin došao s čitavom dvorskom svitom, da joj čestita na vjenčanju s
 kraljem Bradonjom; i prava se radost istom sada započe.
 
-[]{#grimm-bajke-txt_24.xhtml}
+
 
 ## Doktor sveznalica
 
@@ -4138,13 +4138,13 @@ Nato Doktor Sveznalica pokaže gospodinu gdje se nalazi novac, a nije
 odao kradljivaca. I od njega i od njih dobije mnogo novaca kao nagradu i
 postane znamenit čovjek.
 
-[]{#grimm-bajke-txt_25.xhtml}
+
 
 ## Snjeguljica
 
 Bilo usred zime; poput maska padale snježne pahuljice; kraj prozora s
 okvirom od crne
-[]{#grimm-bajke-txt_25.xhtml#ebanovina}[ebanovine](../Text/Rjecnik.xhtml#e)
+ebanovine
 sjedila kraljica i šila. Pogledala kako sniježi, pa se u prst ubola, i
 tri kapi krvi pale u snijeg. Kako se rumenilo u bijelom snijegu lijepo
 isticalo, kraljica pomisli: »Da mi je dijete, bijelo kao snijeg, rumeno
@@ -4496,7 +4496,7 @@ Snjeguljicu i od silnoga straha bude kao skamenjena. Ali već joj u
 dvoranu kliještima donesoše usijane željezne papuče, staviše ih pred nju
 i ona morade u njima plesati, sve dok mrtva ne pade na zemlju.
 
-[]{#grimm-bajke-txt_26.xhtml}
+
 
 ## Mudri ljudi
 
@@ -4522,7 +4522,7 @@ je ogledao krave i čuo cijenu, lukavo će i odlučno:
 
 -- Platit ću drage volje; toliko vam krave vrijede, da ih brat bratu
 daje; odmah ću ih povesti sa sobom. -- Odriješi
-[]{#grimm-bajke-txt_26.xhtml#priuze}[priuze](../Text/Rjecnik.xhtml#p) i
+priuze i
 istjera krave iz staje. Kad je već htio na dvorišna vrata, dohvati ga
 žena za rukav:
 
@@ -4563,7 +4563,7 @@ dobiješ svoju zasluženu plaću bez odbitka.
 
 Seljak iziđe na glavnu cestu, sjedne na kamen želeći da što dočeka.
 Opazi gdje dolaze
-[]{#grimm-bajke-txt_26.xhtml#taljige}[taljige](../Text/Rjecnik.xhtml#t):
+taljige:
 u njima stoji žena, mjesto da sjedi na snopu slame što je kraj nje, ili
 da ide uz volove.
 
@@ -4662,7 +4662,7 @@ cijenio.«
 
 Tako mišljaše seljak, ali tebi su glupaci zacijelo miliji.
 
-[]{#grimm-bajke-txt_27.xhtml}
+
 
 ## Braco i seka
 
@@ -4931,7 +4931,7 @@ vješticu baciše u vatru te je izgorjela. I kad od nje ne osta ništa
 drugo nego pepeo, lane opet poprimi ljudsko obličje. Seka i braco
 življahu otada zajedno i sretno sve do svoje smrti.
 
-[]{#grimm-bajke-txt_28.xhtml}
+
 
 ## Siromašni mlinarski momčić i maca
 
@@ -5005,7 +5005,7 @@ brus i sijeno kući i zapita, hoće li mu platiti.
 
 -- Ne -- odvrati maca. -- Treba da mi još nešto načiniš. Evo ti građa od
 srebra,
-[]{#grimm-bajke-txt_28.xhtml#bradva}[bradva](../Text/Rjecnik.xhtml#b),
+bradva,
 kutomjer i što je već potrebno, sve od srebra, pa mi sagradi kućicu.
 
 Ivo sagradi kućicu i prigovori maci, da je sve učinio, ali da još nema
@@ -5074,7 +5074,7 @@ postao bogat, vrlo bogat, te je imao svega u obilju za sav život.
 Stoga neka nitko ne kaže, da ne bi mogao postati čestit, zato što je
 budalast.
 
-[]{#grimm-bajke-txt_29.xhtml}
+
 
 ## Sretni Ivo
 
@@ -5190,7 +5190,7 @@ ozbiljno:
 prošao, ukrali su seoskome knezu svinju. Sve se bojim, da nije ova
 tvoja. Poslali su već i ljude u potjeru; zlo po tebe, ako te zateknu s
 njom; najmanje ti se može dogoditi, da dođeš u
-[]{#grimm-bajke-txt_29.xhtml#buturnica}[buturnicu](../Text/Rjecnik.xhtml#b).
+buturnicu.
 
 -- O Bože! -- tjeskobno će Ivo -- pomozite mi iz nevolje! Vi se ovdje
 bolje snalazite, evo vam svinja, a vi meni dajte gusku.
